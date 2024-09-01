@@ -1,0 +1,7 @@
+[web]
+54.164.34.147 ansible_user=ubuntu
+
+[db]
+
+
+[flutter]
