@@ -1,4 +1,4 @@
-Ansible Project for EC2 Deployment
+#Ansible Project for EC2 Deployment
  This project uses Ansible to deploy Docker containers running NGINX on AWS EC2 instances. 
 It leverages a Bastion Host for secure access to private EC2 instances.
  Features- Automated provisioning of EC2 instances on AWS.- Secure access to private EC2 instances through a Bastion Host.- NGINX deployment using Docker containers.- High Availability by distributing instances across Availability Zones (AZs)
